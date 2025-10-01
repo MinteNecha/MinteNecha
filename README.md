@@ -101,7 +101,3 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 ---
 
 *"Building the future, one line of code at a time"* 💻✨
-
-<!--
-**MinteNecha/MinteNecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
