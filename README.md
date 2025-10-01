@@ -40,7 +40,6 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 - **Frontend**: TypeScript, React
 - **Backend**: JavaScript, WebSocket integration
 - **Features**: Real-time water monitoring, IoT device configuration
-- **Live Demo**: [H2OWise WebSocket](https://web-socket-h2-o-wise.vercel.app)
 
 ### 🛒 E-commerce Solutions
 - **ShopMall**: Flutter-based mobile shopping application
@@ -70,12 +69,6 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 - **Real-time Applications**: Implementing WebSocket and MQTT for live data streaming
 - **Database Design**: Working with both SQL and NoSQL databases
 - **Cloud Integration**: Deploying applications on cloud platforms
-
-## 📈 GitHub Stats
-
-![Mintesinot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinteNecha&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinteNecha&layout=compact&theme=dark)
 
 ## 🌱 Currently Learning
 
