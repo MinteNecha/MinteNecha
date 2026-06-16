@@ -44,7 +44,6 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 ### E-commerce Solutions
 - **ShopMall**: Flutter-based mobile shopping application
 - **Retro Score Fest**: TypeScript web application for retro gaming scores
-- **Live Demo**: [Retro Score Fest](https://retro-score-fest.vercel.app)
 
 ### Career Connect UMP Hub
 - **Technology**: TypeScript, React
