@@ -34,34 +34,34 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🌊 H2OWise - Water Management System
+### H2OWise - Water Management System
 - **Frontend**: TypeScript, React
 - **Backend**: JavaScript, WebSocket integration
 - **Features**: Real-time water monitoring, IoT device configuration
 
-### 🛒 E-commerce Solutions
+### E-commerce Solutions
 - **ShopMall**: Flutter-based mobile shopping application
 - **Retro Score Fest**: TypeScript web application for retro gaming scores
 - **Live Demo**: [Retro Score Fest](https://retro-score-fest.vercel.app)
 
-### 🏢 Career Connect UMP Hub
+### Career Connect UMP Hub
 - **Technology**: TypeScript, React
 - **Purpose**: University career management platform
 - **Features**: Job posting, career guidance, student-employer connections
 
-### 🏠 IoT Configuration Tools
+### IoT Configuration Tools
 - **Desktop App**: Dart/Flutter desktop application for IoT device configuration
 - **Web Interface**: TypeScript-based configuration UI
 - **Integration**: MQTT protocol for device communication
 
-### 📊 Data Analytics & Monitoring
+### Data Analytics & Monitoring
 - **MQTT to InfluxDB**: JavaScript data pipeline for IoT sensor data
 - **Firebase Integration**: Real-time data storage and retrieval
 - **Admin Dashboards**: JavaScript-based admin interfaces
 
-## 🔧 What I Do
+## What I Do
 
 - **Full-Stack Web Development**: Building scalable web applications with modern frameworks
 - **Mobile App Development**: Creating cross-platform mobile apps with Flutter
@@ -70,14 +70,14 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 - **Database Design**: Working with both SQL and NoSQL databases
 - **Cloud Integration**: Deploying applications on cloud platforms
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced IoT protocols and edge computing
 - Cloud-native application development
 - Machine learning integration with web applications
 - Advanced Flutter development patterns
 
-## 💡 Interests
+## Interests
 
 - IoT and smart home automation
 - Real-time data visualization
@@ -88,9 +88,9 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 ## 📫 Get In Touch
 
 - 💼 **Profile**: [github.com/MinteNecha](https://github.com/MinteNecha)
-- 📧 **Email**: Available upon request
-- 🌐 **Portfolio**: Check out my pinned repositories below!
+- 📧 **Email**: mintenecha@gmail.com 
+- 🌐 **Portfolio**: mintesinot-zemade-necha-portfolio.vercel.app 
 
 ---
 
-*"Building the future, one line of code at a time"* 💻✨
+*"Building the future, one line of code at a time"* 
